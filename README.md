@@ -1,9 +1,9 @@
-# Auto Mileage Visualization
-This repo is an interactive visualization of the Car Mileage dataset.
-Achieved from https://archive.ics.uci.edu/ml/datasets/auto+mpg
+# COVID Infection/Deceased Rate Visualization
+This repo is an interactive visualization of the COVID RIVM dataset.
+Obtained from https://data.rivm.nl/covid-19/
 
 
 run using:
-streamlit run auto_mpg_app.py
+streamlit run covid_app.py
 
 
