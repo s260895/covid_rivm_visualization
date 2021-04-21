@@ -175,9 +175,9 @@ st.write(fig)
 # if model_selection_slider == 'RF':
 #     regressor = get_rf_model(x=X.values,y=y.values.ravel(),rf_n_estimators=rf_n_estimator_slider)
 #     fig = regression_plot(x=X.values,y=y.values,logy=log_scaling_slider,regressors=regressor)
-#     st.write(fig)
+#     st.write(fig) 
 
 
 # st.plotly_chart(fig, use_container_width=True)
 
-st.markdown("*-Created by Sumeet Zankar*")
+# st.markdown("*-Cr*")
